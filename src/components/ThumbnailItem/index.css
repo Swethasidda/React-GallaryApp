@@ -1,0 +1,19 @@
+/* Write your code here. */
+.each-Item {
+  list-style-type: none;
+}
+.button {
+  background-color: transparent;
+  border-width: 0px;
+  margin-left: 10px;
+}
+.image {
+  height: 100px;
+  width: 100px;
+  border-radius: 10px;
+  opacity: 0.5;
+  margin-left: 0px;
+}
+.activeimagebutton {
+  opacity: 1;
+}
